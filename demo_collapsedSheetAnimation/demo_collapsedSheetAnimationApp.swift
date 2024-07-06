@@ -11,7 +11,7 @@ import SwiftUI
 struct demo_collapsedSheetAnimationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
